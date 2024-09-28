@@ -1,4 +1,5 @@
-# Process Killer
+# Process Killer   <img src="https://github.com/CavidH/ProcessKiller/blob/master/ProcessKiller/assets/Skull-Icon.svg.ico" alt="Icon" width="35" height="35"/>
+
 
 A simple .NET Core application for managing running processes on Windows. Users can view and terminate processes while seeing key details like Process ID, memory usage, and file path.
 
